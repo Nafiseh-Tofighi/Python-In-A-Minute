@@ -1,5 +1,5 @@
 """
-File: 012-Variables-Python_In_A_Minute.py
+File: 012-NamingConventions-Python_In_A_Minute.py
 Author: Nafiseh J.Tofighi
 Date: 10May2024
 
